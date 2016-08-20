@@ -23,7 +23,7 @@ widgets:
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
 #### RSS 
-#rss: /atom.xml ## RSS address.
+#rss: /atom.xml ## RSS address...
 
 
 #### Image
